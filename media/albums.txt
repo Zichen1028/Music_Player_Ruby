@@ -1,0 +1,89 @@
+8
+Greatest Hits
+Neil Diamond
+1
+1998
+3
+Cracklin Rosie
+sounds/01-Cracklin-rose.wav
+Soolaimon
+sounds/06-Soolaimon.wav
+Sweet Caroline
+sounds/20-Sweet_Caroline.wav
+Lemon
+Kenshi Yonezu
+1
+2018
+3
+Lemon
+sounds/album2/Lemon.mp3
+Cranberry & Pancake
+sounds/album2/Cranberry & Pancake.mp3
+Paper Flower
+sounds/album2/Paper Flower.mp3
+Hotel California
+The Eagle
+2
+1976
+3
+Hotel California
+sounds/album3/Hotel California.mp3
+New Kid in Town
+sounds/album3/New Kid in Town.mp3
+Wasted Time
+sounds/album3/Wasted Time.mp3
+Divide
+Ed Sheeran
+2
+2017
+3
+Eraser
+sounds/album4/Eraser.mp3
+Dive
+sounds/album4/Dive.mp3
+Shape of You
+sounds/album4/Shape of You.mp3
+The Fame Monster
+Lady Gaga
+3
+2009
+3
+Bad Romance
+sounds/album5/Bad Romance.mp3
+Alejandro
+sounds/album5/Alejandro.mp3
+Love Game
+sounds/album5/Love Game.mp3
+Bloom
+Troye Sivan
+3
+2018
+3
+Take Yourself Home
+sounds/album6/Take Yourself Home.mp3
+Youth
+sounds/album6/Youth.mp3
+Lucky Strike
+sounds/album6/Lucky Strike.mp3
+Illuminate
+Shawn Mendes
+4
+2016
+3
+Treat You Better
+sounds/album7/Treat You Better.mp3
+Mercy
+sounds/album7/Mercy.mp3
+In My Blood
+sounds/album7/In My Blood.mp3
+Grenade
+Bruno Mars
+4
+2010
+3
+When I Was Your Man
+sounds/album8/When I Was Your Man.mp3
+Treasure
+sounds/album8/Treasure.mp3
+Uptown Funk
+sounds/album8/Uptown Funk.mp3
